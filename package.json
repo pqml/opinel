@@ -1,0 +1,25 @@
+{
+  "name": "opinel",
+  "version": "0.0.1",
+  "description": "Opinionated web tools",
+  "main": "lib/index.mjs",
+  "module": "lib/index.mjs",
+  "browser": "lib/index.mjs",
+  "license": "MIT",
+  "scripts": {},
+  "files": [
+    "lib"
+  ],
+  "author": "Hugo Piquemal <hugopiquemal+github@gmail.com> (https://twitter.com/hugopiquemal)",
+  "contributors": [
+    "Arnaud Juracek <arnaud.juracek+github@gmail.com> (http://arnaudjuracek.fr/)"
+  ],
+  "keywords": [
+    "couteau"
+  ],
+  "repository": "github:pqml/opinel",
+  "bugs": "https://github.com/pqml/opinel/issues",
+  "homepage": "https://github.com/pqml/opinel#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
